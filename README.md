@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# Ejercicio de arrays
+# Ejercicio de Arreglos
 1. Usando el operador for realiza la tabla de multiplicar de 2
     Ejemplo 
     2 x 1 = 2
