@@ -2,9 +2,9 @@
 
 # Ejercicio de Arreglos
 
->#### Hola, a continuación se presenta un ejercicio que deberas realizar utilizando "Arreglos" de Javascript, por favor realiza el paso a paso como se indica.
+>#### Hola, a continuación se presentan varios ejercicios que deberas realizar utilizando "Arreglos" de Javascript.
 
-**1.** Usando el operador for realiza la tabla de multiplicar de 2
+- **1.** Usando el operador `for` realiza la tabla de multiplicar del 2
     **Ejemplo** 
     2 x 1 = 2
     2 x 2 = 4
@@ -12,7 +12,7 @@
     ....
     2 x 10 = 20
 
-**2.** Crear 2 arreglos como los siguientes
+- **2.** Crear 2 arreglos como los siguientes
     const nombres = ['alberto', 'paty', 'Jose', 'daniel', 'luis', 'antonio', 'Luis', 'paty', 'luis'];
     
     const nombreMayusculas = [];
@@ -22,15 +22,15 @@
     Usando un console.log, imprime el resultado. Debes tener el siguiente resultado
     ALBERTO, PATY, JOSE, DANIEL, LUIS, ANTONIO, LUIS, PATY, LUIS
     
-**3.** Crea una nueva variable con el nombre nombreMinusculas. Para esta parte vas a utilizar la función map. El objetivo es poder crear un nuevo arreglo a partir del arreglo nombreMayusculas. Este nuevo arreglo debe contener ahora los nombre en minusculas.
+- **3.** Crea una nueva variable con el nombre nombreMinusculas. Para esta parte vas a utilizar la función map. El objetivo es poder crear un nuevo arreglo a partir del arreglo nombreMayusculas. Este nuevo arreglo debe contener ahora los nombre en minusculas.
     
     Usa el console.log para imprimir el resultadp el cual debe ser el siguiente
     alberto, paty, jose, daniel, luis, antonio, luis, paty, luis
 
-**4.** Crea una variable con el nombre filtroNombres. Vas a utilizar el arreglo nombres para esta tarea. Debes utilizar la función filter para que solo obtengas los nombres que sean luis
+- **4.** Crea una variable con el nombre filtroNombres. Vas a utilizar el arreglo nombres para esta tarea. Debes utilizar la función filter para que solo obtengas los nombres que sean luis
     Usa un console.log para ver el resultado. Debes tener como resultado lo siguiente
     luis, Luis, luis
-**5.** Crea un nuevo arreglo con el nombre numeros y agrega los sigiguiente valores:
+- **5.** Crea un nuevo arreglo con el nombre numeros y agrega los sigiguiente valores:
     const numeros = [2,4,6,8,10]
     
 Crea una nueva variable con el nombre total. El objetivo es que uses la función reduce la cual debe sumar todos los valores del arreglo numeros. Imprime el resultado de la variable total. El resultado debe ser 30
