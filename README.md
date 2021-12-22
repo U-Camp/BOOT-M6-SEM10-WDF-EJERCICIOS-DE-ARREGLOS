@@ -1,3 +1,5 @@
+![Banner](imagenes/banner.png)
+
 # Ejercicio de arrays
 1. Usando el operador for realiza la tabla de multiplicar de 2
     Ejemplo 
