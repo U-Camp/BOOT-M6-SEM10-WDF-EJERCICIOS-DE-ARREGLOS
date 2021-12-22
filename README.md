@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# Ejercicio de Arreglos
+# Ejercicios de Arreglos
 
 >#### Hola, a continuación se presentan varios ejercicios que deberas realizar utilizando "Arreglos" de Javascript.
 
