@@ -6,7 +6,7 @@
 
 **1.** Usando el operador `for` realiza la tabla de multiplicar del 2.
 
-    **Ejemplo** 
+    **Ejemplo:**  
     2 x 1 = 2
     2 x 2 = 4
     2 x 3 = 6
