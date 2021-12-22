@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# Ejercicios de Arreglos
+# WDF M6 S10: Ejercicios de Arreglos
 
 >#### Hola, a continuación se presentan varios ejercicios que deberas realizar utilizando "Arreglos" de Javascript.
 
