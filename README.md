@@ -2,7 +2,7 @@
 
 # WDF M6 S10: Ejercicios de Arreglos
 
->#### Hola, a continuación se presentan varios ejercicios que deberas realizar utilizando "Arreglos" de Javascript.
+>#### Hola, a continuación se presentan varios ejercicios que deberas realizar utilizando "Arreglos" de JavaScript.
 
 **1.** Usando el operador `for` realiza la tabla de multiplicar del 2.
 
